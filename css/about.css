@@ -1,5 +1,4 @@
 .services {
-    background-color: whitesmoke;
     padding-top: 100px;
     padding-bottom: 221px;
 }   
@@ -25,7 +24,7 @@
 }
 
 .services li {
-    background-color: #fff;
+    background-color: whitesmoke;
     width: 350px;
     border-radius: 20px;
     padding: 54px 37px 47px;
@@ -47,16 +46,4 @@ li p {
     font-weight: 300;
     font-size: 1.6rem;
     line-height: 1.75;
-}
-
-.buttons {
-    width: 200px;
-    border: 1.4px solid #458FF6;
-    border-radius: 55px;
-    color: #458FF6;
-    text-decoration: none;
-    line-height: 3.33;
-    font-size: 1.8rem;
-    font-weight: bold;
-    margin-top: 72px;
 }

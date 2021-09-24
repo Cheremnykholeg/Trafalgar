@@ -1,0 +1,31 @@
+.info {
+    padding-bottom: 250px;
+}
+
+.info-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-content {
+    align-self: stretch;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.info h2 {
+    padding-bottom: 59px;
+    font-weight: bold;
+}
+
+.info p {
+    line-height: 1.67;
+    font-size: 1.8rem;
+}
+
+.info-photo img {
+    display: flex;
+    margin-left: -100px;
+    padding-right: 100px;
+    padding-bottom: 200px;
+}
