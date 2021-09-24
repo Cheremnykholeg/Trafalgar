@@ -1,0 +1,62 @@
+.services {
+    background-color: whitesmoke;
+    padding-top: 100px;
+    padding-bottom: 221px;
+}   
+
+.services h2 {
+    line-height: 1.56;
+    font-size: 3.6rem;
+    padding-bottom: 61px;
+    text-align: center;
+}
+
+.description {
+    line-height: 1.67;
+    font-size: 1.8rem;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.services ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.services li {
+    background-color: #fff;
+    width: 350px;
+    border-radius: 20px;
+    padding: 54px 37px 47px;
+    align-items: center;
+}
+
+li img {
+    height: 90px;
+    padding-bottom: 20px;
+}
+
+li h3 {
+    line-height: 2.33;
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+
+li p {
+    font-weight: 300;
+    font-size: 1.6rem;
+    line-height: 1.75;
+}
+
+.buttons {
+    width: 200px;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    color: #458FF6;
+    text-decoration: none;
+    line-height: 3.33;
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-top: 72px;
+}
