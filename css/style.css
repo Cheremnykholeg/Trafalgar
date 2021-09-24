@@ -1,0 +1,266 @@
+.logo {
+    font-weight: bold;
+    text-decoration: none;
+    color: #233348;
+    font-size: 24px;
+    line-height: 1.25;
+}
+
+.firstmenu {
+    font-size: 18px;
+    line-height: 1.28;
+}
+
+.firstmenu li a {
+    text-decoration: none;
+    opacity: 0.5;
+    color: #1F1534;
+}
+
+.h1 {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 1.17;
+    color: #000;
+    float: left;
+}
+
+.text {
+    font-size: 21px;
+    line-height: 1.52;
+    color: #7D7987;
+    font-weight: 300;
+    float: left;
+}
+
+.button {
+    background-color: #458FF6;
+    color: #fff;
+    text-decoration: none;
+    line-height: 3.33;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.h2 {
+    text-align: center;
+    font-weight: bold;
+    line-height: 1.56;
+    font-size: 36px;
+}
+
+.text1 {
+    text-align: center;
+    line-height: 1.67;
+    font-size: 18px;
+}
+
+.cards li:nth-child(3) {
+    margin-bottom: 0;
+}
+
+.cards li:nth-child(4) {
+    margin-bottom: 0;
+}
+
+.cards li:last-child {
+    margin-bottom: 0;
+}
+
+.cards li {
+    width: 350px;
+    height: 354px;
+    background-color: #edf0f5;
+    margin-bottom: 30px;
+    padding: 54px 40px 47px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.cards h2 {
+    font-size: 24px;
+    line-height: 2.33;
+    font-weight: bold;
+}
+
+.cards p {
+    font-size: 16px;
+    line-height: 1.75;
+    color: #7D7987;
+}
+
+.learnmore {
+    border: 1.4px solid #458FF6;
+    color: #458FF6;
+    text-decoration: none;
+    line-height: 3.33;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text2 {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.56;
+    float: right;
+}
+
+.text3 {
+    font-size: 18px;
+    line-height: 1.67;
+    font-weight: 300;
+    color: #7D7987;
+    float: right;
+    width: 450px;
+}
+
+.text4 {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.56;
+}
+
+.text5 {
+    font-size: 18px;
+    line-height: 1.67;
+    font-weight: 300;
+    color: #7D7987;
+}
+
+.cards1 {
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+}
+
+.cards2 li {
+    display: inline-block;
+    background-color: #edf0f5;
+    border-radius: 20px;
+    width: 350px;
+    height: 430px;
+    margin-right: 123px;
+}
+
+.text6 {
+    font-size: 36px;
+    line-height: 0.75;
+    color: #fff;
+    font-weight: bold;
+}
+
+.text7 {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 0.46;
+    color: #fff;
+}
+
+.text8 {
+    font-size: 18px;
+    line-height: 0.375;
+    color: #fff;
+    opacity: 0.85;
+}
+
+.text9 {
+    font-size: 19px;
+    line-height: 0.63;
+    color: #fff;
+    opacity: 0.9;
+}
+
+.text10 {
+    text-align: center;
+    font-weight: bold;
+    line-height: 1.56;
+    font-size: 36px;
+}
+
+.text11 {
+    font-size: 24px;
+    line-height: 2.33;
+    font-weight: bold;
+}
+
+.text12 {
+    font-size: 16px;
+    line-height: 1.75;
+    color: #7D7987;
+}
+
+.text13 {
+    font-size: 24px;
+    line-height: 2.33;
+    font-weight: bold;
+}
+
+.text14 {
+    font-size: 16px;
+    line-height: 1.75;
+    color: #7D7987;
+}
+
+.text15 {
+    font-size: 24px;
+    line-height: 2.33;
+    font-weight: bold;
+}
+
+.text16 {
+    font-size: 16px;
+    line-height: 1.75;
+    color: #7D7987;
+}
+
+.text17 {
+    font-size: 18px;
+    line-height: 0.64;
+    color: #fff;
+}
+
+.text18 {
+    font-size: 16px;
+    line-height: 0.58;
+    color: #fff;
+}
+
+.cards1 li {
+    display: inline-block;
+    background-color: #edf0f5;
+    border-radius: 20px;
+    width: 350px;
+    height: 430px;
+    margin-right: 123px;
+}
+
+.readmore {
+    font-size: 17px;
+    line-height: 0.6;
+    font-weight: 600;
+    color: #4089ED;
+    text-decoration: none;
+}
+
+footer {
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+}
+
+footer .logo {
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    line-height: 1.25;
+}
+
+footer ul li:first-child {
+    font-size: 20px;
+    line-height: 0.33;
+    color: #fff;
+    font-weight: bold;
+}
+
+footer ul li {
+    color: #fff;
+    font-size: 18px;
+    line-height: 0.48;
+}
