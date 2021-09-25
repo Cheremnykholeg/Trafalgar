@@ -1,0 +1,44 @@
+footer {
+    padding-top: 93px;
+    padding-bottom: 50px;
+    background-color: #FFFAF2;
+    color: #fff;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer h2 {
+    margin-bottom: 52px;
+}
+
+.footer-row {
+    display: flex;
+}
+
+.footer-row ul {
+    flex-grow: 2;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px 0;
+}
+
+.footer-row ul li {
+    width: 50%;
+}
+
+.footer-row a {
+    line-height: 1.22;
+    font-size: 1.8rem;
+}
+
+.footer-row .column {
+    flex-grow: 1;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}

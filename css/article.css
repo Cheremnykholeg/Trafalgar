@@ -41,3 +41,8 @@
     text-decoration: none;
     margin-left: 13px;
 }
+
+.article button {
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
